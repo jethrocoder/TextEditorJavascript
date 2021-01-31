@@ -1,14 +1,22 @@
 {
-  "name": "test_editor",
-  "version": "0.0.1",
-  "description": "Text editor developed using javascript",
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jethrocoder/TextEditorJavascript.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jethrocoder/TextEditorJavascript/issues"
+  },
+  "homepage": "https://github.com/jethrocoder/TextEditorJavascript#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
